@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/JEONGDONGJUN/Desktop/nepp_20220214/app/src/main/res/drawable-mdpi/a123.xml" value="0.1915" />
+        <entry key="..\:/Users/JEONGDONGJUN/Desktop/nepp_20220214/app/src/main/res/drawable/custom_icon.xml" value="0.1915" />
+        <entry key="..\:/Users/JEONGDONGJUN/Desktop/nepp_20220214/app/src/main/res/drawable/draw1.xml" value="0.1915" />
+        <entry key="..\:/Users/JEONGDONGJUN/Desktop/nepp_20220214/app/src/main/res/drawable/draw2.xml" value="0.1915" />
+        <entry key="..\:/Users/JEONGDONGJUN/Desktop/nepp_20220214/app/src/main/res/drawable/draw3.xml" value="0.1915" />
+        <entry key="..\:/Users/JEONGDONGJUN/Desktop/nepp_20220214/app/src/main/res/drawable/id_icon_custom.xml" value="0.1915" />
+        <entry key="..\:/Users/JEONGDONGJUN/Desktop/nepp_20220214/app/src/main/res/drawable/password_icon_custom.xml" value="0.1915" />
+        <entry key="..\:/Users/JEONGDONGJUN/Desktop/nepp_20220214/app/src/main/res/layout/activity_main.xml" value="0.5506535947712419" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
